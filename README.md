@@ -9,3 +9,7 @@
 <p align="center">
   ${\color{#bababa}"⠀You \space can \space use \space a \space spear \space as \space a \space walking \space stick, \space but \space that \space will \space not \space change \space its \space nature.⠀"}$
 </p>
+
+<div align="center">    
+  <img src="https://komarev.com/ghpvc/?username=undivideddattention&label=　heroes+who+were+happy　&color=e3332c&style=plastic" alt="Profile views"/>
+</div>
